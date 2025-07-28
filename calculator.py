@@ -95,4 +95,5 @@ for row_index, row in enumerate(buttons):
 
 # Keyboard Support
 root.bind("<Key>", key_press)
+
 root.mainloop()
